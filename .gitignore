@@ -13,3 +13,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 .gitignore
+
+### Jekyll Settings
+_includes/haml/.sass-cache/
