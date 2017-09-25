@@ -1,0 +1,30 @@
+%aside.main-sidebar
+  %section.sidebar
+    -# -----
+      ###### user panel ######
+    %section.user-panel
+      .pull-left.image
+        %img{ src:"/frameworks/admin_lte/2.4.0/dist/img/user2-160x160.jpg", class:"img-circle", alt:"" }
+      .pull-left.info
+        %p Name Name
+        %a{ href:"#" }<
+          %i.fa.fa-circle.text-success Online
+    -# -----
+      ###### search ######
+    %form.sidebar-form{ method:"get", action:"#" }
+      .input-group
+        %input{ type:"text", name:"q", placeholder:"検索" }
+        %span.input-group-btn
+          %button#search-btn.btn.btn-flat{ type:"submit", name:"search" }<
+            %i.fa.fa-search
+    -# -----
+      ###### sidebar menu ######
+    %ul.sidebar-menu{ "data-widget" => "tree"}
+      %li.header Main
+      %li.treeview
+        %a{ href:"" }<
+          %i.fa.fa-dashboard<
+          %span メニュー項目
+          %span.pull-right-container<
+            %i.fa.fa-angle-left.pull-right
+

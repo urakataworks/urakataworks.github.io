@@ -14,5 +14,9 @@ ehthumbs.db
 Thumbs.db
 .gitignore
 
-### Jekyll Settings
-_includes/haml/.sass-cache/
+### SASS
+.sass-cache/
+/nbproject/
+/nbproject/private/
+/node_modules/
+
