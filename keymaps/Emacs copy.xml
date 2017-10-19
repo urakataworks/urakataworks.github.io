@@ -1,0 +1,10 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Tool_External Tools_MIFES">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+</keymap>
