@@ -12,7 +12,11 @@
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorKillRingSave" />
+  <action id="EditorKillToWordEnd" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
