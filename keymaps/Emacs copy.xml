@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Synchronize" />
   <action id="TogglePresentationMode">
