@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="pug_bk171031_ページ分割以前" type="PLAIN_TEXT" />
       <mapping ext="scss_bk171031_ナビゲーション変更前" type="PLAIN_TEXT" />
     </extensionMap>
