@@ -18,6 +18,10 @@
           <option name="url" value="git@bitbucket.org:urakataworks/greenhouse.co.jp.2017.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:tobem-developers/pj_hhj_dtr.hino.co.jp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
