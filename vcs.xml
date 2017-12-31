@@ -30,6 +30,10 @@
           <option name="url" value="git@bitbucket.org:tobem-developers/prd_tobem.jp_maplus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:kwbt/recruit.agorahospitalities.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
