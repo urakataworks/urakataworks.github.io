@@ -46,12 +46,12 @@
       <option name="fileExtension" value="haml" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Haml" />
-      <option name="output" value="$FileParentDir$/$FileNameWithoutExtension$.tpl" />
+      <option name="output" value="$FileNameWithoutExtension$.html" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby24-x64/bin/haml.bat" />
+      <option name="program" value="C:/Ruby24-x64/bin/haml" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
