@@ -39,7 +39,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-q $FileName$ $FileParentDir$/$FileNameWithoutExtension$.tpl" />
+      <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.html" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
