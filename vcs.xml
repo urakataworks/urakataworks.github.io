@@ -46,6 +46,10 @@
           <option name="url" value="git@bitbucket.org:kwbt/realize-develop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:tobem-developers/pj_nnc_info.nipponcat.co.jp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
