@@ -38,7 +38,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.html" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
