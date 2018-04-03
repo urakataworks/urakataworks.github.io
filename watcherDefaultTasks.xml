@@ -28,7 +28,7 @@
       <option name="fileExtension" value="jade" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Pug/Jade" />
-      <option name="output" value="$FileNameWithoutExtension$.html" />
+      <option name="output" value="$FileNameWithoutExtension$.tpl" />
       <option name="outputFilters">
         <array />
       </option>
@@ -41,14 +41,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.html" />
+      <option name="arguments" value="-q $FileName$ $FileParentDir$/$FileNameWithoutExtension$.tpl" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="haml" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Haml" />
-      <option name="output" value="$FileNameWithoutExtension$.html" />
+      <option name="output" value="$FileParentDir$/$FileNameWithoutExtension$.tpl" />
       <option name="outputFilters">
         <array />
       </option>
