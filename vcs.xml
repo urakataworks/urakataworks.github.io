@@ -70,8 +70,16 @@
           <option name="url" value="git@bitbucket.org:tobem-developers/pj_templates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://e-reverse.backlog.jp" />
+          <option name="userName" value="uw-kawabata" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e-reverse.backlog.jp/git/ERC_DOC/HelpCenter_WP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\www" />
+    <option name="cloneParentDir" value="C:\www\ERC" />
   </component>
 </application>
