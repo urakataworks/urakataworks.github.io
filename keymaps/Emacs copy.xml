@@ -5,15 +5,11 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
-  <action id="$SelectAll">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="CloseAllEditors" />
   <action id="CloseProject">
@@ -22,18 +18,13 @@
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
-  <action id="Console.TableResult.CompareCells" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
-  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
-  </action>
-  <action id="Editor SelectAll">
-    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -41,27 +32,14 @@
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
   <action id="EditorKillRingSave" />
   <action id="EditorKillToWordEnd" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
   <action id="EditorToggleCase" />
-  <action id="ExpressionTypeInfo" />
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
-  </action>
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl period" />
-  </action>
-  <action id="PreviousProjectWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
@@ -78,6 +56,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
-  <action id="Uml.ShowDiff" />
-  <action id="Vcs.Push" />
 </keymap>
