@@ -82,6 +82,10 @@
           <option name="url" value="git@bitbucket.org:urakataworks/datamaster-develop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tobem.backlog.jp/git/MC_KADOU/pj_shm_hokepo.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
