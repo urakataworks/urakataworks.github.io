@@ -35,7 +35,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="pug" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="RPC" />
+      <option name="scopeName" value="pj_rdm" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
