@@ -90,6 +90,10 @@
           <option name="url" value="https://tobem.backlog.jp/git/MC_KADOU/pj_rpc_mail.pokemoncenter-online.com.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tobem.backlog.jp/git/MC_KADOU/mc_common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
