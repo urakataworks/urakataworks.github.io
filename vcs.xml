@@ -94,6 +94,10 @@
           <option name="url" value="https://tobem.backlog.jp/git/MC_KADOU/mc_common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:urakataworks/pa_sanazawa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
