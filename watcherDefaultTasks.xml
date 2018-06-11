@@ -21,7 +21,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$ --pretty --doctype html --out $FileParentDir$ --extension php" />
+      <option name="arguments" value="$FileName$ --pretty --doctype html --out $FileParentDir$ --extension tpl" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -35,7 +35,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="pug" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="pj_rdm" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
