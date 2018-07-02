@@ -2,12 +2,22 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Arrangement.Alias.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="ChangesView.Diff" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
@@ -18,8 +28,13 @@
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Diff.ShowDiff" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -29,8 +44,14 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorKillRingSave" />
   <action id="EditorKillToWordEnd" />
@@ -38,6 +59,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
@@ -47,6 +69,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Synchronize" />
   <action id="TogglePresentationMode">
@@ -56,4 +82,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
