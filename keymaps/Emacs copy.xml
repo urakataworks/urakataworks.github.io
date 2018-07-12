@@ -8,6 +8,10 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -59,9 +63,11 @@
   </action>
   <action id="EditorToggleCase" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoTest" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
@@ -71,6 +77,7 @@
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Synchronize" />
