@@ -20,7 +20,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$FileName$ --pretty --doctype html --out $FileParentDir$ --extension tpl" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -33,14 +33,14 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="pug" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/pug.cmd" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="pj_rdm" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.html" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -53,7 +53,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby24-x64/bin/haml.bat" />
+      <option name="program" value="C:/Ruby24-x64/bin/haml" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
