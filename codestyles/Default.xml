@@ -1,7 +1,17 @@
 <code_scheme name="Default" version="173">
   <CssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
     <option name="SPACE_AFTER_COLON" value="false" />
+    <option name="ALIGN_CLOSING_BRACE_WITH_PROPERTIES" value="true" />
   </CssCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
