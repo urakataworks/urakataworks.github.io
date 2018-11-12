@@ -126,8 +126,12 @@
           <option name="url" value="git@bitbucket.org:tobem-developers/pj_etg_go.t-gaia.co.jp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:kwbt/assabu-antenna.tokyo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\www" />
+    <option name="cloneParentDir" value="C:\www\kamakura_works" />
   </component>
 </application>
