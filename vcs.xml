@@ -154,6 +154,10 @@
           <option name="url" value="git@bitbucket.org:urakataworks/yscar.co.jp_develop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:kwbt/pa.testworks.link.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
