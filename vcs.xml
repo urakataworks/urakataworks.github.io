@@ -170,6 +170,10 @@
           <option name="url" value="git@bitbucket.org:urakataworks/render.testworks.link.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:wis-worksteam/soumu-navi.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www" />
