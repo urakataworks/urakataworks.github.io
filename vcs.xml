@@ -182,8 +182,12 @@
           <option name="url" value="ssh://bitbucket.org/kwbt/okayama-taiyo.jp_develop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://bitbucket.org/kwbt/okayama-taiyo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\www" />
+    <option name="cloneParentDir" value="C:\www\okayama-taiyo.jp_develop\contents\themes" />
   </component>
 </application>
