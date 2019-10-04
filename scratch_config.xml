@@ -4,9 +4,10 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="settingsPhpStorm.tpl" />
+        <option value="erc1910.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="settingsPhpStorm.tpl" />
+    <option name="lastOpenedScratch" value="erc1910.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
