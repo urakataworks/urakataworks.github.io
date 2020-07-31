@@ -2,7 +2,7 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
-    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
