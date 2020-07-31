@@ -5,6 +5,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
